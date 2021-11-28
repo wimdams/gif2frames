@@ -1,0 +1,7 @@
+#Git ignore for gif2frames project
+
+*.pro.user
+debug/
+Debug/
+release/
+Release/
